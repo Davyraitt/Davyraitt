@@ -18,12 +18,4 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davyraitt&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Davyraitt" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
